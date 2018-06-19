@@ -4,6 +4,6 @@
     "cronSchedule": "*/15 * * * *",
     "slackEnabled": true,
     "slackChannel": "#world-cup-2018",
-    "slackBot": "Worldcup",
+    "slackBot": "Fifa 2018 Bot",
     "slackWebhook": "https://hooks.slack.com/services/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"
 }
